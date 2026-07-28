@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-t7yrov.financialdoctors.co.nz/sitemap.xml
